@@ -15,6 +15,7 @@ python3-pip \
 python3-wheel \
 git \
 ffmpeg \
+python3-psutil \
 psmisc
 
 RUN pip3 install tweepy markovify
